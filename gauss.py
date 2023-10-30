@@ -1,4 +1,5 @@
 import copy
+from math import *
 
 # Exercício 1
 def triangular(entrada):

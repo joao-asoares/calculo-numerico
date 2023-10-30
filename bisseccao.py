@@ -5,6 +5,8 @@ Trabalho sobre Método de Bissecção, Cálculo Númerico, semestre 2023/2
 16/08/2023
 """
 
+from math import *
+
 # define a função f(x)
 def f(x, a, b, c, d):
   return a*(x**3) + b*(x**2) + c*x + d
